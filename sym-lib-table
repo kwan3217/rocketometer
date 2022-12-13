@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "KwanSystems")(type "KiCad")(uri "/home/jeppesen/workspace/rollercoasterometer/kicad/kwan_kicad_lib/KwanSystems.kicad_sym")(options "")(descr ""))
+  (lib (name "SparkFun_IMU_Breakout_ICM-20948-eagle-import")(type "KiCad")(uri "/home/jeppesen/workspace/SparkfunEagle/ICM20948/SparkFun_IMU_Breakout_ICM-20948-eagle-import.kicad_sym")(options "")(descr ""))
+)
