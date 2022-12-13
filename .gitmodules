@@ -1,3 +1,4 @@
 [submodule "kwan_kicad_lib"]
 	path = kwan_kicad_lib
 	url = git@github.com:kwan3217/kwan_kicad_lib.git
+        update = merge
